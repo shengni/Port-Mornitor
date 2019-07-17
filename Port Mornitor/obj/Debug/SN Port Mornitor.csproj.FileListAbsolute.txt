@@ -1,0 +1,10 @@
+C:\Users\Sheng\source\repos\SN Port Mornitor\SN Port Mornitor\obj\Debug\SN Port Mornitor.csprojAssemblyReference.cache
+C:\Users\Sheng\source\repos\SN Port Mornitor\SN Port Mornitor\obj\Debug\SN_Port_Mornitor.Form1.resources
+C:\Users\Sheng\source\repos\SN Port Mornitor\SN Port Mornitor\obj\Debug\SN_Port_Mornitor.Properties.Resources.resources
+C:\Users\Sheng\source\repos\SN Port Mornitor\SN Port Mornitor\obj\Debug\SN Port Mornitor.csproj.GenerateResource.cache
+C:\Users\Sheng\source\repos\SN Port Mornitor\SN Port Mornitor\obj\Debug\SN Port Mornitor.csproj.CoreCompileInputs.cache
+C:\Users\Sheng\source\repos\SN Port Mornitor\SN Port Mornitor\bin\Debug\Port Mornitor.exe.config
+C:\Users\Sheng\source\repos\SN Port Mornitor\SN Port Mornitor\bin\Debug\Port Mornitor.exe
+C:\Users\Sheng\source\repos\SN Port Mornitor\SN Port Mornitor\bin\Debug\Port Mornitor.pdb
+C:\Users\Sheng\source\repos\SN Port Mornitor\SN Port Mornitor\obj\Debug\Port Mornitor.exe
+C:\Users\Sheng\source\repos\SN Port Mornitor\SN Port Mornitor\obj\Debug\Port Mornitor.pdb
